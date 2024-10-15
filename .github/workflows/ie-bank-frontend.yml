@@ -1,4 +1,4 @@
-name: ie-bank-frontend
+name: ie-bank-fe
 
 on:
   push:
